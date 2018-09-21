@@ -84,12 +84,13 @@ Where **CodeDirectory** is the full path of the directory containing main.py.
 ### Play with the "renderer"
  We also provide a very simple and slow renderer Interactive_Rendering.py please look into the python file for commands. You need to provide an additional color image for this. See the example folder Pepper/.
  <img src="images/Pepper.gif" width="400" height="300" />
+ 
 Artistic image from David Revoy, only non-commercial research usage is allowed.
-####To Run Locally:
+#### To Run Locally:
 ```
 python3 Interactive_Rendering.py 
 ```
-####To run with docker:
+#### To run with docker:
 
 First run on local machine:
 ```
