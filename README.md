@@ -15,7 +15,7 @@ Please also see our [video of results](https://www.youtube.com/watch?v=1tZ-y0PzV
 
 ## Prerequisites
 
-###With Docker
+### With Docker
 
 If you are familiar with docker [this image](https://hub.docker.com/r/matishudon/dockerdeepn/) has everything installed to run the code (please install and run with [nvidia-docker](https://github.com/NVIDIA/nvidia-docker)):
 	```
@@ -24,7 +24,7 @@ If you are familiar with docker [this image](https://hub.docker.com/r/matishudon
 
 This code was tested under ubuntu 16.04.
 
-###Locally
+### Locally
 
 This code was tested under ubuntu 16.04.
 
@@ -61,7 +61,7 @@ This code was tested under ubuntu 16.04.
 
 Before using the code, the model has to be downloaded from [here](https://v-sense.scss.tcd.ie/Datasets/DeepNormalsModel.zip) Unzip in the Net/ folder.
 
-####To Run Locally:
+#### To Run Locally:
 
 You can test the code with:
 ```
@@ -75,7 +75,7 @@ python3 main.py --lineart_path PathToYourImage --mask_path PathToCorrespondingMa
 ```
 Please see main.py for other commands.
 
-####To run with docker:
+#### To run with docker:
 ```
 sudo nvidia-docker run -v CodeDirectory/:/container/directory/ -it matishudon/dockerdeepn python3 /container/directory/main.py --docker_path /container/directory/
 ```
