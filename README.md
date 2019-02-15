@@ -111,10 +111,12 @@ If you use this model, code or dataset please cite our paper:
 
 ```
 @inproceedings{hudon2018deep,
-	title={Deep Normal Estimation for Automatic Shading of Hand-Drawn Characters},
-	author={Matis Hudon, Rafael Pagés, Mairéad Grogan, Aljosa Smolić},
-	booktitle={ECCV Workshops},
-	year={2018}
+  title={Deep Normal Estimation for Automatic Shading of Hand-Drawn Characters},
+  author={Hudon, Matis and Grogan, Mair{\'e}ad and Pag{\'e}s, Rafael and Smoli{\'c}, Aljo{\v{s}}a},
+  booktitle={European Conference on Computer Vision},
+  pages={246--262},
+  year={2018},
+  organization={Springer}
 }
 ```
 
