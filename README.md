@@ -1,4 +1,4 @@
-# [Deep Normals](https://www.scss.tcd.ie/~hudonm/publication/deep-normal-estimation-for-automatic-shading-of-hand-drawn-characters/)
+# [Deep Normals](https://v-sense.scss.tcd.ie/research/vfx-animation/deep-normal-estimation-for-automatic-shading-of-hand-drawn-characters/)
 ![Example result](images/Carrot.png?raw=true "Example result of the provided model." )
 Example result of a deep normal estimation from sketch. Original creation from David Revoy, only non-commercial research usage is allowed.
 
@@ -10,7 +10,7 @@ This code provides pre-trained models used in the following research paper:
    Matis Hudon, Rafael Pagés, Mairéad Grogan, Aljosa Smolić
    Geometry Meets Deep Learning ECCV 2018 Workshop
 ```
-Please refer to our [project webpage](https://www.scss.tcd.ie/~hudonm/publication/deep-normal-estimation-for-automatic-shading-of-hand-drawn-characters/) for more detailed information. 
+Please refer to our [project webpage](https://v-sense.scss.tcd.ie/research/vfx-animation/deep-normal-estimation-for-automatic-shading-of-hand-drawn-characters/) for more detailed information. 
 Please also see our [video of results](https://www.youtube.com/watch?v=1tZ-y0PzV8g&t=3s).
 
 ## Prerequisites
