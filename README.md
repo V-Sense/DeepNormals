@@ -13,6 +13,14 @@ This code provides pre-trained models used in the following research paper:
 Please refer to our [project webpage](https://v-sense.scss.tcd.ie/research/vfx-animation/deep-normal-estimation-for-automatic-shading-of-hand-drawn-characters/) for more detailed information. 
 Please also see our [video of results](https://www.youtube.com/watch?v=1tZ-y0PzV8g&t=3s).
 
+Please note that futher work was made on this project:
+```
+   "Augmenting Hand-Drawn Art with Global Illumination Effects through Surface Inflation" 
+   Matis Hudon and Sebastian Lutz and Rafael Pages and Aljosa Smolic
+   CVMP 2019
+```
+Also a new dataset with ground truth normal maps and depth maps was made available, see the [project webpage](https://v-sense.scss.tcd.ie/research/augmenting-hand-drawn-art-with-global-illumination-effects-through-surface-inflation/)
+
 ## Prerequisites
 
 ### With Docker
